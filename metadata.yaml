@@ -25,6 +25,8 @@ creator:
     - http://en.wikipedia.org/wiki/Sun_Tzu
     - http://zh.wikipedia.org/wiki/%E5%AD%99%E6%AD%A6
 description: 'Text only, no commentary. The commentary can be found in #132.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17405#The-Art-of-War
 gutenberg_issued: '2005-12-28'
 gutenberg_type: Text
 identifiers:
