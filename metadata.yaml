@@ -1,0 +1,42 @@
+_repo: The-Art-of-War_17405
+_version: 0.1.0
+alternative_title: Sunzi bing fa. English
+contributor:
+  translator:
+    agent_name: Giles, Lionel
+    birthdate: 1875
+    deathdate: 1958
+    gutenberg_agent_id: '5101'
+    url: http://www.gutenberg.org/2009/agents/5101
+    wikipedia: http://en.wikipedia.org/wiki/Lionel_Giles
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sunzi, active 6th century B.C.
+    aliases:
+    - 孙子
+    - Sun Tzu
+    - 孫子
+    gutenberg_agent_id: '4349'
+    url: http://www.gutenberg.org/2009/agents/4349
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Sun_Tzu
+    - http://zh.wikipedia.org/wiki/%E5%AD%99%E6%AD%A6
+description: 'Text only, no commentary. The commentary can be found in #132.'
+gutenberg_issued: '2005-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17405'
+language: en
+publication_note: '1910'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'U'
+- !lcsh 'Military art and science -- Early works to 1800'
+- !lcsh 'War -- Early works to 1800'
+title: The Art of War
+url: http://www.gutenberg.org/ebooks/17405
